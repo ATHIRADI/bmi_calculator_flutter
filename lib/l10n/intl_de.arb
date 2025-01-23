@@ -1,0 +1,39 @@
+{
+    "@@locale": "de",
+    "introTitle": "Seeku \nBMI-Rechner",
+    "introSubtitle1": "Beginnen Sie mit der Verfolgung Ihrer Gesundheit!",
+    "introSubtitle2": "Berechnen Sie Ihren BMI und bleiben Sie mühelos auf dem Weg zu Ihrem Wohlbefinden.",
+    "getStartedButton": "Loslegen",
+
+    "bmiCalculatorTitle": "Seeku - BMI-Rechner",
+    "calculateBMILabel": "BMI berechnen",
+    "invalidInputTitle": "Ungültige Eingabe",
+    "invalidInputMessage": "Bitte stellen Sie sicher:\n- Das Gewicht liegt zwischen 0 und 500 kg\n- Die Größe ist ein positiver Wert\n- Das Alter liegt zwischen 1 und 120 Jahren",
+    "weightLabel": "Gewicht (kg)",
+    "ageLabel": "Alter (Jahre)",
+
+    "resultScreenTitle": "Ihr BMI-Ergebnis",
+    "invalidDataMessage": "Ungültige Daten angegeben.",
+    "recalculateButton": "Neu berechnen",
+    "healthyWeightRange": "Gesunde Gewichtsspanne",
+    "underweight": "Untergewicht",
+    "normalWeight": "Normales Gewicht",
+    "overweight": "Übergewicht",
+    "obesity": "Fettleibigkeit",
+    "underweightRange": "BMI weniger als 18.5",
+    "normalWeightRange": "BMI 18.5 bis 24.9",
+    "overweightRange": "BMI 25 bis 29.9",
+    "obesityRange": "BMI 30 und mehr",
+
+    "heightLabel": "Höhe",
+    "genderLabel": "Geschlecht",
+    "maleLabel": "Männlich",
+    "femaleLabel": "Weiblich",
+
+    "settingsTitle": "Einstellungen",
+    "languageLabel": "Sprache",
+    "privacyPolicyLabel": "Datenschutz-Bestimmungen",
+    "shareLabel": "Teilen",
+    "rateUsLabel": "Bewerten Sie uns",
+    "feedbackLabel": "Rückmeldung"
+}

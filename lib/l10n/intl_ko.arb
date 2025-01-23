@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "ko",
+    "introTitle": "Seeku \nBMI 계산기",
+    "introSubtitle1": "건강 추적을 시작하세요!",
+    "introSubtitle2": "BMI를 계산하고 건강 여정을 쉽게 유지하세요.",
+    "getStartedButton": "시작하기",
+
+    "bmiCalculatorTitle": "Seeku - BMI 계산기",
+    "calculateBMILabel": "BMI 계산하기",
+    "invalidInputTitle": "유효하지 않은 입력",
+    "invalidInputMessage": "다음 사항을 확인하세요:\n- 체중은 0에서 500kg 사이\n- 키는 양수 값\n- 나이는 1세에서 120세 사이",
+    "weightLabel": "체중 (kg)",
+    "ageLabel": "나이 (년)",
+
+    "resultScreenTitle": "당신의 BMI 결과",
+    "invalidDataMessage": "제공된 데이터가 유효하지 않습니다.",
+    "recalculateButton": "다시 계산하기",
+    "healthyWeightRange": "건강한 체중 범위",
+    "underweight": "저체중",
+    "normalWeight": "정상 체중",
+    "overweight": "과체중",
+    "obesity": "비만",
+    "underweightRange": "BMI 18.5 미만",
+    "normalWeightRange": "BMI 18.5에서 24.9",
+    "overweightRange": "BMI 25에서 29.9",
+    "obesityRange": "BMI 30 이상",
+
+    "heightLabel": "신장",
+    "genderLabel": "성별",
+    "maleLabel": "남성",
+    "femaleLabel": "여성",
+
+    "settingsTitle": "설정",
+    "languageLabel": "언어",
+    "privacyPolicyLabel": "개인정보 처리방침",
+    "shareLabel": "공유",
+    "rateUsLabel": "평가하기",
+    "feedbackLabel": "피드백"
+}

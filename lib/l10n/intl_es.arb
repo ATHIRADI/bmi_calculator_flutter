@@ -1,0 +1,55 @@
+{
+    "@@locale": "es",
+    "introTitle": "Seeku \nCalculadora de IMC",
+    "introSubtitle1": "¡Comienza a Rastrear tu Salud!",
+    "introSubtitle2": "Calcula tu IMC y mantente al tanto de tu bienestar, sin esfuerzo.",
+    "getStartedButton": "Comenzar",
+
+    "bmiCalculatorTitle": "Seeku - Calculadora de IMC",
+    "calculateBMILabel": "Calcular IMC",
+    "invalidInputTitle": "Entrada Inválida",
+    "invalidInputMessage": "Por favor asegúrate:\n- El peso está entre 0 y 500 kg\n- La altura es un valor positivo\n- La edad está entre 1 y 120 años",
+    "weightLabel": "Peso (kg)",
+    "ageLabel": "Edad (años)",
+
+    "resultScreenTitle": "Tu Resultado de IMC",
+    "invalidDataMessage": "Datos proporcionados no válidos.",
+    "recalculateButton": "Recalcular",
+    "healthyWeightRange": "Rango de Peso Saludable",
+    "underweight": "Bajo peso",
+    "normalWeight": "Peso normal",
+    "overweight": "Sobrepeso",
+    "obesity": "Obesidad",
+    "underweightRange": "IMC menor de 18.5",
+    "normalWeightRange": "IMC 18.5 a 24.9",
+    "overweightRange": "IMC 25 a 29.9",
+    "obesityRange": "IMC 30 y superior",
+
+
+      "underweight": "Bajo peso",
+  "underweightRange": "IMC menor de 18.5",
+  "normalWeight": "Peso normal",
+  "normalWeightRange": "IMC 18.5 a 24.9",
+  "overweight": "Sobrepeso",
+  "overweightRange": "IMC 25 a 29.9",
+  "obesity": "Obesidad",
+  "obesityRange": "IMC 30 y superior",
+  "invalidDataMessage": "Datos proporcionados no válidos.",
+  "resultScreenTitle": "Tu Resultado de IMC",
+  "recalculateButton": "Recalcular",
+  "healthyWeightRange": "Rango de Peso Saludable",
+
+
+    "heightLabel": "Altura",
+    "genderLabel": "Género",
+    "maleLabel": "Masculino",
+    "femaleLabel": "Femenino",
+
+    "settingsTitle": "Configuraciones",
+    "languageLabel": "Idioma",
+    "privacyPolicyLabel": "Política de Privacidad",
+    "shareLabel": "Compartir",
+    "rateUsLabel": "Califícanos",
+    "feedbackLabel": "Comentarios"
+
+}

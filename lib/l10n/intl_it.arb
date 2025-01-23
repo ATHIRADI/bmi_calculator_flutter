@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "it",
+    "introTitle": "Seeku \nCalcolatore BMI",
+    "introSubtitle1": "Inizia a monitorare la tua salute!",
+    "introSubtitle2": "Calcola il tuo BMI e rimani in cima al tuo benessere, senza sforzo.",
+    "getStartedButton": "Inizia",
+
+    "bmiCalculatorTitle": "Seeku - Calcolatore BMI",
+    "calculateBMILabel": "Calcola BMI",
+    "invalidInputTitle": "Input non valido",
+    "invalidInputMessage": "Assicurati di:\n- Il peso è tra 0 e 500 kg\n- L'altezza è un valore positivo\n- L'età è tra 1 e 120 anni",
+    "weightLabel": "Peso (kg)",
+    "ageLabel": "Età (anni)",
+
+    "resultScreenTitle": "Il tuo risultato BMI",
+    "invalidDataMessage": "Dati forniti non validi.",
+    "recalculateButton": "Ricalcola",
+    "healthyWeightRange": "Intervallo di peso sano",
+    "underweight": "Sottopeso",
+    "normalWeight": "Peso normale",
+    "overweight": "Sovrappeso",
+    "obesity": "Obesità",
+    "underweightRange": "BMI inferiore a 18.5",
+    "normalWeightRange": "BMI 18.5 a 24.9",
+    "overweightRange": "BMI 25 a 29.9",
+    "obesityRange": "BMI 30 e oltre",
+
+    "heightLabel": "Altezza",
+    "genderLabel": "Genere",
+    "maleLabel": "Maschile",
+    "femaleLabel": "Femminile",
+
+    "settingsTitle": "Impostazioni",
+    "languageLabel": "Lingua",
+    "privacyPolicyLabel": "Politica sulla privacy",
+    "shareLabel": "Condividi",
+    "rateUsLabel": "Valutaci",
+    "feedbackLabel": "Feedback"
+}

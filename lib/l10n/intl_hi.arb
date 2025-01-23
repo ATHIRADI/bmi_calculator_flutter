@@ -1,0 +1,39 @@
+{
+    "@@locale": "hi",
+    "introTitle": "सीकु \nबीएमआई कैलकुलेटर",
+    "introSubtitle1": "अपनी सेहत को ट्रैक करना शुरू करें!",
+    "introSubtitle2": "अपना बीएमआई कैलकुलेट करें और अपनी भलाई की यात्रा पर आसानी से बने रहें।",
+    "getStartedButton": "शुरू करें",
+
+    "bmiCalculatorTitle": "सीकु - बीएमआई कैलकुलेटर",
+    "calculateBMILabel": "बीएमआई कैलकुलेट करें",
+    "invalidInputTitle": "अमान्य इनपुट",
+    "invalidInputMessage": "कृपया सुनिश्चित करें:\n- वजन 0 से 500 किलोग्राम के बीच है\n- ऊँचाई एक सकारात्मक मान है\n- उम्र 1 से 120 वर्ष के बीच है",
+    "weightLabel": "वजन (किलोग्राम)",
+    "ageLabel": "उम्र (वर्ष)",
+
+    "resultScreenTitle": "आपका बीएमआई परिणाम",
+    "invalidDataMessage": "प्रदान किए गए डेटा अमान्य हैं।",
+    "recalculateButton": "फिर से कैलकुलेट करें",
+    "healthyWeightRange": "स्वस्थ वजन सीमा",
+    "underweight": "कम वजन",
+    "normalWeight": "सामान्य वजन",
+    "overweight": "अधिक वजन",
+    "obesity": "मोटापा",
+    "underweightRange": "बीएमआई 18.5 से कम",
+    "normalWeightRange": "बीएमआई 18.5 से 24.9",
+    "overweightRange": "बीएमआई 25 से 29.9",
+    "obesityRange": "बीएमआई 30 और ऊपर",
+
+    "heightLabel": "ऊँचाई",
+    "genderLabel": "लिंग",
+    "maleLabel": "पुरुष",
+    "femaleLabel": "महिला",
+
+    "settingsTitle": "सेटिंग्स",
+    "languageLabel": "भाषा",
+    "privacyPolicyLabel": "गोपनीयता नीति",
+    "shareLabel": "साझा करें",
+    "rateUsLabel": "हमें रेट करें",
+    "feedbackLabel": "फीडबैक"
+}

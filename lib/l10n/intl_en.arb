@@ -1,0 +1,40 @@
+{
+    "@@locale": "en",
+    "introTitle": "Seeku \nBMI Calculator",
+    "introSubtitle1": "Get Started with Tracking Your Health!",
+    "introSubtitle2": "Calculate your BMI and stay on top of your wellness journey, effortlessly.",
+    "getStartedButton": "Get Started",
+
+    "bmiCalculatorTitle": "Seeku - BMI Calculator",
+    "calculateBMILabel": "Calculate BMI",
+    "invalidInputTitle": "Invalid Input",
+    "invalidInputMessage": "Please ensure:\n- Weight is between 0 and 500 kg\n- Height is a positive value\n- Age is between 1 and 120 years",
+    "weightLabel": "Weight (kg)",
+    "ageLabel": "Age (years)",
+
+    "resultScreenTitle": "Your BMI Result",
+    "invalidDataMessage": "Invalid data provided.",
+    "recalculateButton": "Recalculate",
+    "healthyWeightRange": "Healthy Weight Range",
+    "underweight": "Underweight",
+    "normalWeight": "Normal weight",
+    "overweight": "Overweight",
+    "obesity": "Obesity",
+    "underweightRange": "BMI less than 18.5",
+    "normalWeightRange": "BMI 18.5 to 24.9",
+    "overweightRange": "BMI 25 to 29.9",
+    "obesityRange": "BMI 30 and above",
+
+    "heightLabel": "Height",
+    "genderLabel": "Gender",
+    "maleLabel": "Male",
+    "femaleLabel": "Female",
+
+    "settingsTitle": "Settings",
+    "languageLabel": "Language",
+    "privacyPolicyLabel": "Privacy Policy",
+    "shareLabel": "Share",
+    "rateUsLabel": "Rate Us",
+    "feedbackLabel": "Feedback"
+
+}

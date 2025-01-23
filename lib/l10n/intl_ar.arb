@@ -1,0 +1,39 @@
+{
+    "@@locale": "ar",
+    "introTitle": "سيكو \nحاسبة مؤشر كتلة الجسم",
+    "introSubtitle1": "ابدأ بتتبع صحتك!",
+    "introSubtitle2": "احسب مؤشر كتلة جسمك وابق على اطلاع برحلتك نحو العافية، بكل سهولة.",
+    "getStartedButton": "ابدأ",
+
+    "bmiCalculatorTitle": "سيكو - حاسبة مؤشر كتلة الجسم",
+    "calculateBMILabel": "احسب مؤشر كتلة الجسم",
+    "invalidInputTitle": "إدخال غير صالح",
+    "invalidInputMessage": "يرجى التأكد من:\n- الوزن بين 0 و 500 كجم\n- الطول قيمة إيجابية\n- العمر بين 1 و 120 سنة",
+    "weightLabel": "الوزن (كجم)",
+    "ageLabel": "العمر (سنوات)",
+
+    "resultScreenTitle": "نتيجة مؤشر كتلة الجسم",
+    "invalidDataMessage": "بيانات غير صالحة مقدمة.",
+    "recalculateButton": "إعادة حساب",
+    "healthyWeightRange": "نطاق الوزن الصحي",
+    "underweight": "نقص الوزن",
+    "normalWeight": "وزن طبيعي",
+    "overweight": "زيادة الوزن",
+    "obesity": "السمنة",
+    "underweightRange": "مؤشر كتلة الجسم أقل من 18.5",
+    "normalWeightRange": "مؤشر كتلة الجسم 18.5 إلى 24.9",
+    "overweightRange": "مؤشر كتلة الجسم 25 إلى 29.9",
+    "obesityRange": "مؤشر كتلة الجسم 30 وما فوق",
+
+    "heightLabel": "الطول",
+    "genderLabel": "الجنس",
+    "maleLabel": "ذكر",
+    "femaleLabel": "أنثى",
+
+    "settingsTitle": "الإعدادات",
+    "languageLabel": "اللغة",
+    "privacyPolicyLabel": "سياسة الخصوصية",
+    "shareLabel": "مشاركة",
+    "rateUsLabel": "قيمنا",
+    "feedbackLabel": "ملاحظات"
+}

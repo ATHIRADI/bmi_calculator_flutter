@@ -1,0 +1,39 @@
+{
+    "@@locale": "id",
+    "introTitle": "Seeku \nKalkulator BMI",
+    "introSubtitle1": "Mulai Lacak Kesehatan Anda!",
+    "introSubtitle2": "Hitung BMI Anda dan tetap di jalur kesehatan Anda, tanpa usaha.",
+    "getStartedButton": "Mulai",
+
+    "bmiCalculatorTitle": "Seeku - Kalkulator BMI",
+    "calculateBMILabel": "Hitung BMI",
+    "invalidInputTitle": "Input Tidak Valid",
+    "invalidInputMessage": "Pastikan:\n- Berat antara 0 dan 500 kg\n- Tinggi adalah nilai positif\n- Usia antara 1 dan 120 tahun",
+    "weightLabel": "Berat (kg)",
+    "ageLabel": "Usia (tahun)",
+
+    "resultScreenTitle": "Hasil BMI Anda",
+    "invalidDataMessage": "Data yang diberikan tidak valid.",
+    "recalculateButton": "Hitung Ulang",
+    "healthyWeightRange": "Rentang Berat Sehat",
+    "underweight": "Berat Badan Kurang",
+    "normalWeight": "Berat Badan Normal",
+    "overweight": "Kelebihan Berat Badan",
+    "obesity": "Obesitas",
+    "underweightRange": "BMI kurang dari 18.5",
+    "normalWeightRange": "BMI 18.5 hingga 24.9",
+    "overweightRange": "BMI 25 hingga 29.9",
+    "obesityRange": "BMI 30 ke atas",
+
+    "heightLabel": "Tinggi",
+    "genderLabel": "Jenis Kelamin",
+    "maleLabel": "Laki-laki",
+    "femaleLabel": "Perempuan",
+
+    "settingsTitle": "Pengaturan",
+    "languageLabel": "Bahasa",
+    "privacyPolicyLabel": "Kebijakan Privasi",
+    "shareLabel": "Bagikan",
+    "rateUsLabel": "Beri Kami Penilaian",
+    "feedbackLabel": "Umpan Balik"
+}

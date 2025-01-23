@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "tr",
+    "introTitle": "Seeku \nBMI Hesaplayıcı",
+    "introSubtitle1": "Sağlığınızı takip etmeye başlayın!",
+    "introSubtitle2": "BMI'nizi hesaplayın ve sağlıklı yaşam yolculuğunuzda kolayca ilerleyin.",
+    "getStartedButton": "Başlayın",
+
+    "bmiCalculatorTitle": "Seeku - BMI Hesaplayıcı",
+    "calculateBMILabel": "BMI Hesapla",
+    "invalidInputTitle": "Geçersiz Girdi",
+    "invalidInputMessage": "Lütfen şunları kontrol edin:\n- Ağırlık 0 ile 500 kg arasında\n- Boy pozitif bir değer\n- Yaş 1 ile 120 yıl arasında",
+    "weightLabel": "Ağırlık (kg)",
+    "ageLabel": "Yaş (yıl)",
+
+    "resultScreenTitle": "BMI Sonuçlarınız",
+    "invalidDataMessage": "Geçersiz veri sağlandı.",
+    "recalculateButton": "Yeniden Hesapla",
+    "healthyWeightRange": "Sağlıklı Ağırlık Aralığı",
+    "underweight": "Zayıf",
+    "normalWeight": "Normal ağırlık",
+    "overweight": "Aşırı kilo",
+    "obesity": "Obezite",
+    "underweightRange": "BMI 18.5'ten az",
+    "normalWeightRange": "BMI 18.5 ile 24.9 arasında",
+    "overweightRange": "BMI 25 ile 29.9 arasında",
+    "obesityRange": "BMI 30 ve üzeri",
+
+    "heightLabel": "Boy",
+    "genderLabel": "Cinsiyet",
+    "maleLabel": "Erkek",
+    "femaleLabel": "Kadın",
+
+    "settingsTitle": "Ayarlar",
+    "languageLabel": "Dil",
+    "privacyPolicyLabel": "Gizlilik Politikası",
+    "shareLabel": "Paylaş",
+    "rateUsLabel": "Bizi Değerlendirin",
+    "feedbackLabel": "Geri Bildirim"
+}

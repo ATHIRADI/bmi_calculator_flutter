@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "ru",
+    "introTitle": "Seeku \nКалькулятор ИМТ",
+    "introSubtitle1": "Начните отслеживать свое здоровье!",
+    "introSubtitle2": "Рассчитайте свой ИМТ и оставайтесь на пути к благополучию.",
+    "getStartedButton": "Начать",
+
+    "bmiCalculatorTitle": "Seeku - Калькулятор ИМТ",
+    "calculateBMILabel": "Рассчитать ИМТ",
+    "invalidInputTitle": "Недопустимый ввод",
+    "invalidInputMessage": "Пожалуйста, убедитесь:\n- Вес от 0 до 500 кг\n- Рост положительное значение\n- Возраст от 1 до 120 лет",
+    "weightLabel": "Вес (кг)",
+    "ageLabel": "Возраст (лет)",
+
+    "resultScreenTitle": "Ваш результат ИМТ",
+    "invalidDataMessage": "Предоставленные данные недействительны.",
+    "recalculateButton": "Пересчитать",
+    "healthyWeightRange": "Здоровый диапазон веса",
+    "underweight": "Недостаточный вес",
+    "normalWeight": "Нормальный вес",
+    "overweight": "Избыточный вес",
+    "obesity": "Ожирение",
+    "underweightRange": "ИМТ менее 18.5",
+    "normalWeightRange": "ИМТ 18.5 до 24.9",
+    "overweightRange": "ИМТ 25 до 29.9",
+    "obesityRange": "ИМТ 30 и выше",
+
+    "heightLabel": "Рост",
+    "genderLabel": "Пол",
+    "maleLabel": "Мужской",
+    "femaleLabel": "Женский",
+
+    "settingsTitle": "Настройки",
+    "languageLabel": "Язык",
+    "privacyPolicyLabel": "Политика конфиденциальности",
+    "shareLabel": "Поделиться",
+    "rateUsLabel": "Оцените нас",
+    "feedbackLabel": "Обратная связь"
+}

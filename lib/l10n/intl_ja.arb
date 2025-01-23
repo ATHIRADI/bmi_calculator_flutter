@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "ja",
+    "introTitle": "Seeku \nBMI計算機",
+    "introSubtitle1": "健康を追跡する準備をしましょう！",
+    "introSubtitle2": "BMIを計算して、健康の旅を楽に続けましょう。",
+    "getStartedButton": "始める",
+
+    "bmiCalculatorTitle": "Seeku - BMI計算機",
+    "calculateBMILabel": "BMIを計算する",
+    "invalidInputTitle": "無効な入力",
+    "invalidInputMessage": "次のことを確認してください：\n- 体重は0から500kgの間\n- 身長は正の値\n- 年齢は1から120歳の間",
+    "weightLabel": "体重（kg）",
+    "ageLabel": "年齢（年）",
+
+    "resultScreenTitle": "あなたのBMI結果",
+    "invalidDataMessage": "提供されたデータが無効です。",
+    "recalculateButton": "再計算する",
+    "healthyWeightRange": "健康的な体重範囲",
+    "underweight": "低体重",
+    "normalWeight": "正常体重",
+    "overweight": "過体重",
+    "obesity": "肥満",
+    "underweightRange": "BMI 18.5未満",
+    "normalWeightRange": "BMI 18.5から24.9",
+    "overweightRange": "BMI 25から29.9",
+    "obesityRange": "BMI 30以上",
+
+    "heightLabel": "身長",
+    "genderLabel": "性別",
+    "maleLabel": "男性",
+    "femaleLabel": "女性",
+
+    "settingsTitle": "設定",
+    "languageLabel": "言語",
+    "privacyPolicyLabel": "プライバシーポリシー",
+    "shareLabel": "共有",
+    "rateUsLabel": "評価する",
+    "feedbackLabel": "フィードバック"
+}

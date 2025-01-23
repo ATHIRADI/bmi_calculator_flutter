@@ -1,0 +1,39 @@
+{
+    "@@locale": "fr",
+    "introTitle": "Seeku \nCalculatrice IMC",
+    "introSubtitle1": "Commencez à Suivre Votre Santé!",
+    "introSubtitle2": "Calculez votre IMC et restez au top de votre bien-être, sans effort.",
+    "getStartedButton": "Commencer",
+
+    "bmiCalculatorTitle": "Seeku - Calculatrice IMC",
+    "calculateBMILabel": "Calculer IMC",
+    "invalidInputTitle": "Entrée Invalide",
+    "invalidInputMessage": "Veuillez vous assurer:\n- Le poids est entre 0 et 500 kg\n- La taille est une valeur positive\n- L'âge est entre 1 et 120 ans",
+    "weightLabel": "Poids (kg)",
+    "ageLabel": "Âge (années)",
+
+    "resultScreenTitle": "Votre Résultat IMC",
+    "invalidDataMessage": "Données fournies invalides.",
+    "recalculateButton": "Recalculer",
+    "healthyWeightRange": "Plage de Poids Sain",
+    "underweight": "Insuffisance pondérale",
+    "normalWeight": "Poids normal",
+    "overweight": "Surpoids",
+    "obesity": "Obésité",
+    "underweightRange": "IMC inférieur à 18.5",
+    "normalWeightRange": "IMC 18.5 à 24.9",
+    "overweightRange": "IMC 25 à 29.9",
+    "obesityRange": "IMC 30 et plus",
+
+    "heightLabel": "Taille",
+    "genderLabel": "Genre",
+    "maleLabel": "Homme",
+    "femaleLabel": "Femme",
+
+    "settingsTitle": "Paramètres",
+    "languageLabel": "Langue",
+    "privacyPolicyLabel": "Politique de Confidentialité",
+    "shareLabel": "Partager",
+    "rateUsLabel": "Évaluez-nous",
+    "feedbackLabel": "Retour d'information"
+}

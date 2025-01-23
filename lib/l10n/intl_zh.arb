@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "zh",
+    "introTitle": "Seeku \nBMI计算器",
+    "introSubtitle1": "开始跟踪您的健康！",
+    "introSubtitle2": "计算您的BMI，轻松保持健康之旅。",
+    "getStartedButton": "开始",
+
+    "bmiCalculatorTitle": "Seeku - BMI计算器",
+    "calculateBMILabel": "计算BMI",
+    "invalidInputTitle": "无效输入",
+    "invalidInputMessage": "请确保：\n- 体重在0到500公斤之间\n- 身高为正值\n- 年龄在1到120岁之间",
+    "weightLabel": "体重（公斤）",
+    "ageLabel": "年龄（年）",
+
+    "resultScreenTitle": "您的BMI结果",
+    "invalidDataMessage": "提供的数据无效。",
+    "recalculateButton": "重新计算",
+    "healthyWeightRange": "健康体重范围",
+    "underweight": "体重不足",
+    "normalWeight": "正常体重",
+    "overweight": "超重",
+    "obesity": "肥胖",
+    "underweightRange": "BMI低于18.5",
+    "normalWeightRange": "BMI 18.5到24.9",
+    "overweightRange": "BMI 25到29.9",
+    "obesityRange": "BMI 30及以上",
+
+    "heightLabel": "身高",
+    "genderLabel": "性别",
+    "maleLabel": "男性",
+    "femaleLabel": "女性",
+
+    "settingsTitle": "设置",
+    "languageLabel": "语言",
+    "privacyPolicyLabel": "隐私政策",
+    "shareLabel": "分享",
+    "rateUsLabel": "给我们评分",
+    "feedbackLabel": "反馈"
+}

@@ -1,0 +1,41 @@
+
+
+{
+    "@@locale": "pl",
+    "introTitle": "Seeku \nKalkulator BMI",
+    "introSubtitle1": "Rozpocznij śledzenie swojego zdrowia!",
+    "introSubtitle2": "Oblicz swoje BMI i bądź na bieżąco ze swoją drogą do zdrowia.",
+    "getStartedButton": "Rozpocznij",
+
+    "bmiCalculatorTitle": "Seeku - Kalkulator BMI",
+    "calculateBMILabel": "Oblicz BMI",
+    "invalidInputTitle": "Nieprawidłowy wpis",
+    "invalidInputMessage": "Upewnij się, że:\n- Waga mieści się w przedziale 0-500 kg\n- Wzrost jest wartością dodatnią\n- Wiek mieści się w przedziale 1-120 lat",
+    "weightLabel": "Waga (kg)",
+    "ageLabel": "Wiek (lata)",
+
+    "resultScreenTitle": "Twój wynik BMI",
+    "invalidDataMessage": "Podane dane są nieprawidłowe.",
+    "recalculateButton": "Oblicz ponownie",
+    "healthyWeightRange": "Zdrowy zakres wagi",
+    "underweight": "Niedowaga",
+    "normalWeight": "Normalna waga",
+    "overweight": "Nadwaga",
+    "obesity": "Otyłość",
+    "underweightRange": "BMI poniżej 18.5",
+    "normalWeightRange": "BMI 18.5 do 24.9",
+    "overweightRange": "BMI 25 do 29.9",
+    "obesityRange": "BMI 30 i więcej",
+
+    "heightLabel": "Wzrost",
+    "genderLabel": "Płeć",
+    "maleLabel": "Mężczyzna",
+    "femaleLabel": "Kobieta",
+
+    "settingsTitle": "Ustawienia",
+    "languageLabel": "Język",
+    "privacyPolicyLabel": "Polityka prywatności",
+    "shareLabel": "Udostępnij",
+    "rateUsLabel": "Oceń nas",
+    "feedbackLabel": "Opinie"
+}
